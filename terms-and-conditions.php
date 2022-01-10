@@ -1,0 +1,20 @@
+<?php $page_title = 'Terms & Conditions'; ?>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Terms & Conditions</title>
+	<?php include('components/header_links.php'); ?>
+</head>
+<body>
+	<?php include('components/header.php'); ?>
+
+	<main>
+
+		<?php include('components/page_banner.php'); ?>	
+
+	</main>
+
+	<?php include('components/footer.php'); ?>
+	<?php include('components/footer_links.php'); ?>
+</body>
+</html>
